@@ -1,4 +1,6 @@
 flask
+pandas 
+joblib
 gunicorn
 tensorflow
 numpy
